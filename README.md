@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prince Kaizen Namwali</h1>
 <h3 align="center">I am a lifelong leaner, digital nomad & game developer</h3>
 
+generated using this [tool](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+
 <p
  align="left"> <img 
 src="https://komarev.com/ghpvc/?username=33nano&label=Profile%20views&color=0e75b6&style=flat"
