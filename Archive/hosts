@@ -3,7 +3,7 @@
 # This hosts file is a personal collection of hosts from various sources,
 # It helps aid the user in overcoming internet addiction and puts an end to maladaptive daydreaming
 #
-# Date: 10 June 2021 15:58:24 (UTC)
+# Date: 19 June 2021 15:58:24 (UTC)
 # Extensions added to this file: Tabularasa
 # Number of unique domains: 3065
 #
@@ -1358,6 +1358,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 linuxscoop.com
 0.0.0.0 listamaze.com
 0.0.0.0 listdose.co
+0.0.0.0 google.com
 0.0.0.0 listoffreeware.com
 0.0.0.0 listontap.com
 0.0.0.0 listverse.com
