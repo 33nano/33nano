@@ -99,7 +99,26 @@ const 33nano = {
 - 나 홀로 주문 사용자
 - 나 혼자만 레벨업
 - 3cm 헌터
-  Limit Breaker & Second Life Ranker
+- 만렙돌파
+- 두 번 사는 랭커
+- 섹서사이즈
+- 몸에 좋은 남자
+- 페로몬홀릭
+- 에로스티카 미녀 정복기
+- 지옥에서 돌아온 성좌님
+- 정글쥬스
+- 방주인은 전데요
+- 착하게 살자
+- 수라전설 독룡
+- 빌런투킬
+- 이제 곧 죽습니다
+- 숙모
+- 비밀수업
+- 히어로 매니저
+- 대리부
+- 심해수
+- 싸움독학
+
   
 21. **Whats are some of PKN's favorite Manga?**
 - Sun-Ken Rock, Bleach, Doubutsu no Kuni, Jagaaaaaan, Blue Phobia, Dr Slump, GTO: Paradise Lost, Jojos Bizzare Adventure Saga, One Punch Man, Mob Psycho 100, Origin, Vagabond & Birdmen
