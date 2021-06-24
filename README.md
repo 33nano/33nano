@@ -82,7 +82,24 @@ const 33nano = {
 - Black Panther, Coming to America 2, 3 Idiots, Ip Man 1-4 & Parasite
   
 20. **What are some of PKN's favorite Manhwa?**
-- Eleceed, Peerless Dad, Mercenary Enrollment, Wizard of Arsenia, Noblesse, Brawling Go, Desire to Kill,  Overgeared, Household Affairs, Silent War, Dungeon Reset, Dungeons & Artifacts, Murim Login, Samadhi, True Education, Solo Spell Caster, Solo Leveling, 3cm Hunter, Limit Breaker & Second Life Ranker
+- 일렉시드
+- 아비무쌍
+- 입학용병
+- 아르세니아의 마법사
+- 노블레스
+- 어쩌라GO!
+- 그집, 사정
+- 템빨 
+- 작은 전쟁
+- 던전 리셋
+- 삼매경
+- 던전 씹어먹는 아티팩트
+- 로그인 무림
+- 참교육
+- 나 홀로 주문 사용자
+- 나 혼자만 레벨업
+- 3cm 헌터
+  Limit Breaker & Second Life Ranker
   
 21. **Whats are some of PKN's favorite Manga?**
 - Sun-Ken Rock, Bleach, Doubutsu no Kuni, Jagaaaaaan, Blue Phobia, Dr Slump, GTO: Paradise Lost, Jojos Bizzare Adventure Saga, One Punch Man, Mob Psycho 100, Origin, Vagabond & Birdmen
