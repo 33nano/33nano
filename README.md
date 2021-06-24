@@ -186,32 +186,78 @@ const 33nano = {
 35. **What is PKN's daily driver?**
   
 36. **Whats in PKN's podcast library?**
+- Stack Overflow
+- Unstoppable
+- Career Crashers
+- Rich Dad Radio Show
+- Kwik Brain
+- Breakfast Club
+- Speaking of Bitcoin
+- Office Hours
+- Monday Morning
+- Revolution of One
+- Midnight Miracle
+- Brilliant Idits
+- Flagrant 2
+- Holt Cast
   
 37. **What are PKN's favorite desktop apps?**
-  
+
 38. **What are PKN's favorite mobile apps?**
-  
+- Markor
+- Eink Browser
+- Privacy Browser
+- Mooon Reader Pro
+- Pocket Casts
+
+
 39. **What is PKN's go to browser?**
   
 40. **What window manager does PKN uses?**
+- AwesomeWm
   
 41. **What browser addons does PKN use?**
-  
+- uMatrix
+- uBlock Origin
+- IPFS
+- Lighthouse
+- Dark Reader
+- Bitwarden
+
 42. **What YouTube Channels is PKN subscribed to?**
-  
+- Gamefromscratch
+- Distrotube
+- Luke Smith
+- Black Experience Japan
+- Wode Maya
+- Asian Boss
+- Mark Angel Comedy
+
 43. **What is PKN's favorite YouTube Channel?**
   
 44. **What type of content does PKN love consuming on YouTube?**
-  
+- Standup comedy
+- Tutorials (cooking....)
+- Keynote speeches (TED...)
+
 45. **What Udemy courses does PKN love?**
-  
+- REBT
+- 
 46. **What is PKN's favorite blog?**
+- Crashco
   
 47. **What is your favorite podcast?**
+- Rich Dad Radio Show
   
 48. **What are your favorite mental models?**
- 
-49. 
+- Kaizen
+- Gamification
+
+49. What blogs do you like reading?
+- Dig Deeper
+- Penny Hoarder
+  
+50. 
   
 
   
