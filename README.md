@@ -78,7 +78,10 @@ const 33nano = {
  
 
 14. **What are some of the coolest things that PKN has ever learned?**
-- Rational Emotive Behavior Therapy (Udemy course), Building a Second Brain (Tiago Forte), Latin and Neuro Linguistic Programming.
+- Rational Emotive Behavior Therapy (Udemy course)
+- Building a Second Brain (Tiago Forte),
+- Latin 
+- Neuro Linguistic Programming.
   
 15. **What text editor does PKN use?**
 - He uses [Neovim](https://neovim.io/)
@@ -135,7 +138,24 @@ const 33nano = {
 
   
 21. **Whats are some of PKN's favorite Manga?**
-- Sun-Ken Rock, Bleach, Doubutsu no Kuni, Jagaaaaaan, Blue Phobia, Dr Slump, GTO: Paradise Lost, Jojos Bizzare Adventure Saga, One Punch Man, Mob Psycho 100, Origin, Vagabond & Birdmen
+- サンケンロック
+- ブリーチ
+- どうぶつの国
+- ジャガーン
+- ブルーフォビア
+- Dr.スランプ
+- GTO パラダイス・ロスト
+- ワンパンマン
+- モブサイコ100
+- オリジン
+- バガボンド
+- バードメン
+- スティール・ボール・ラン
+- ダイヤモンドは砕けない
+- 創世のタイガ
+- 紀元前1万年のオタ
+- ドクターストーン
+
   
 22. **What are some of PKN's favorite Manhua**
  
