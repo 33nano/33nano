@@ -37,11 +37,11 @@ const 33nano = {
  6, **Does PKN watch anime?**
  - He used to, but eventually moved on to exlusively reading Manga, later abandoning Manga for Manhwa.
 
-7. **What OS does PKN Use?
+7. **What OS does PKN Use?**
 - After abandoning windows and MacOS he distrohopped countless times and settled on [Artix Linux](https://artixlinux.org/).
 
 8. **Whats is PKN's game engine of choice?**
-- [Godot](https://godotengine.org/) for the win. Aside from creating games, it great for creating animations as well.
+- [Godot](https://godotengine.org/) for the win. Aside from creating games, its great for creating animations as well.
 
 9. **What was PKN's dream when growing up?**
 - He wanted to become an animator, but later realized that dreams dont come true, decisions do. He eventually dabbled in animation only to find out that he didn't like it and moved on to something else.
@@ -50,18 +50,32 @@ const 33nano = {
 - PKN loves procedural generation. The ability to create things out of existence without utilizing ones own unique human intelligence is a blessing... I love procedural generation so much i even create an a awesome list repository [here](https://github.com/33nano/Interplanetary_Destinesia)
 
 11. **What is PKN's favorite thing to watch on TV?**
-- He does not watch TV, but that doesnt make him any less human. He spends most of his time writing, reading and connecting with other human beings.
+- He does not watch TV becuase its distracting and a waste of time. He spends most of his time writing, reading and connecting with other human beings because its more meaninguful. 
 
 12. **What is PKN's favorite English proverb?**
-- He loves the proverb  _necessity is the mother of invention_ . Its an amazing proverb in that when he brainstormed he realized that it all starts with a question. Questioning the old way of life,the amount of time it takes do something...
+- He loves the proverb  _necessity is the mother of invention_ . Its one of the most beautiful english proverbs out there. Necessity is the mother of invention, but it all starts with a question. 
 
 13. **What are some of PKN's favorite books?**
-- Forward Tilt by Isaac Morehouse
-- Memory Rescue by Dr Daniel Amen
-- Limitless by Jim kWik
-- Mindmap Mastery by Tony Buzan
-- Fake by Robert Kiyosaki
-- Internet of Money by Andreas Antonopolous
+- Forward Tilt - Isaac Morehouse
+- Memory Rescue - Dr Daniel Amen
+- Limitless - Jim kWik
+- Mindmap Mastery - Tony Buzan
+- Fake - Robert Kiyosaki
+- Internet of Money - Andreas Antonopolous
+- Personal MBA - Josh Kaufman
+- Kaizen Way - Roberty Maurer
+- Goodbye Things - Fumio Sasaki
+- Unlimited Memory - Kevin Horsley
+- Permanent Record - Edward Snowden
+- Freedom Without Permission - Isaac Morehouse
+- Why Havent You Read This? - TK Coleman
+- An Introduction to Go Programming - Caleb Doxsey
+- Learn Python 3 The Hard Way - Zed Shaw
+- As A Man Thinketh - James Allen
+- Poverty by Choice - Reuben Kamdonyo
+- The Boy Who Harnessed The Wind - William Kamkwamba
+- I Will Try - Legson Kayira
+ 
 
 14. **What are some of the coolest things that PKN has ever learned?**
 - Rational Emotive Behavior Therapy (Udemy course), Building a Second Brain (Tiago Forte), Latin and Neuro Linguistic Programming.
