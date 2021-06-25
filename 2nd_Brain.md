@@ -1,11 +1,18 @@
 # <span style='background-color:#000000;'><span style='color:#00ffbf;'>**Second Brain🧠**</span> 
 
-> Personal Knowledge Management/Mental Model created by **Tiago Forte**
  
-<span style='background-color:#ff468b;'><span style='color:#000000;'>**Second Brain**</span> <span style='background-color:#00bfff;'><span style='color:#ffff00;'>**Prince Kaizen Namwali**</span> 
+<span style='background-color:#2effcb;'><span style='color:#000000;'>**Second Brain**</span> 🧠 <span style='background-color:#00bfff;'><span style='color:#ffff00;'>**Prince Kaizen Namwali**</span> 
 
+<span style='color:#2effff;'>..••••..••••..••••..••••..••••..••••..••</span>
 
-### <span style='color:#ff2ecb;'>CODE</span>
+<span style='color:#2ecbff;'>Collect</span> | <span style='color:#8bffc5;'>Organize</span>| <span style='color:#00ffff;'>Distill</span>| <span style='color:#2effcb;'>Express</span>
+
+<span style='color:#17ffe2;'>••....••....••....••....••....••....••..</span>
+
+<!-- This fancy text decoration looks great in markor, my text editor on Android, but the same is not true for desktop. -->
+> Personal Knowledge Management/Mental Model created by **Tiago Forte**
+
+### <span style='color:#ff2ecb;'>••..CODE..••</span>
 <span style='color:#5dffae;'>
 
 <!-- Collect information from everything you consume, Organize your information using the Para method. Distill your information by placing unused ideas in Archive and express your remixed ideas. -->
@@ -15,7 +22,7 @@
 - **E** - _Express_
 </span>
 
-### <span style='color:#ff2ecb;'>PARA</span>
+### <span style='color:#ff2ecb;'>••..PARA..••</span>
 <span style='color:#5dffae;'>
 
  <!-- Projects have deadlines, Areas require continuous improvement, Resources are what you consume and Archive is completed projects and filtered ideas.-->
@@ -157,7 +164,7 @@ _We live in an Information Age. Our quality of life, income, success, are all ti
 
 <details markdown='1'><summary>Thokozani</summary>
 
-Words can't begin to express how much I love personal knowledge management. I feel like everything that I had been learning on my own all up to this point in my life fused into a smoothie of tranquility. I wish I had learned about this sooner, but I am grateful that I got to learn it now. I am thankful for Tiago Forte. Thanks to him I no longer drown in information, my maladaptive daydreaming has become an asset rather than a liability, I was able to escape tutorial hell, I was able to do something that I felt was difficult (applying information). Before I learned about this drug known as a Second Brain, I was an information hoarder. I was so good at collecting information I was almost indistinguishable from a spy. I used to think that filling my Brain with more and more information would result in greatness, but I wasn't. I was stuck with the same reasoning that destroyed my psychological wellbeing to begin with, school. Living for grades, tests, quizzes and cramming information hoping for a bright future. Building a Second Brain allowed me to unschool, unlearn and fully escape the effects of indoctrination. I give thanks to the idea of a Second Brain. For the first time it allowed me to realize that what I had been learning by chasing my curiosity wasn't useless, I had a large base of knowledge without even realizing it and most importantly I could use all of it. Its one thing to be overwhelmed with abundance, but that's not the case with a Second Brain. Information abundance is a blessing when it comes to a second Brain. Before I learned about the second Brain, I would say that "someday this will click" or "someday I will use this information, I think". I just need to read one more book, listen to one more podcast, take this course or do that then I will be good. That never happened. It felt like the more I accumulated the dumber I became. **How can a person surrounded by rich reservoirs of knowledge be unable to do anything?**  After learning about building a second Brain, the first thing that comes to mind is **how will I use this right now or later?** Building a Second Brain sparked curiosity and imagination of the inner child in me. I find myself asking myself lots of questions. Every markdown file I create contains questions and this file is no different. Thanks to Tiago Forte and his system of a Second Brain I can create stronger neural connections and find creative ways to solve problems in the midst of abundance and scarcity.
+Words can't begin to express how much I love personal knowledge management. I feel like everything that I had been learning on my own all up to this point in my life fused into a smoothie of tranquility. I wish I had learned about this sooner, but I am grateful that I got to learn it now. I am thankful for Tiago Forte. Thanks to him I no longer drown in information, my maladaptive daydreaming has become an asset rather than a liability, I was able to escape tutorial hell, I was able to do something that I felt was difficult (applying information). Before I learned about this drug known as a Second Brain, I was an information hoarder. I was so good at collecting information I was almost indistinguishable from a spy. I used to think that filling my Brain with more and more information would result in greatness, but I wasn't. I was stuck with the same reasoning that destroyed my psychological wellbeing to begin with, school. Living for grades, tests, quizzes and cramming information hoping for a bright future. Building a Second Brain allowed me to unschool, unlearn and fully escape the effects of indoctrination. I give thanks to the idea of a Second Brain. For the first time it allowed me to realize that what I had been learning by chasing my curiosity wasn't useless, I had a large base of knowledge without even realizing it and most importantly I could use all of it. Its one thing to be overwhelmed with abundance, but that's not the case with a Second Brain. Information abundance is a blessing when it comes to a second Brain. Before I learned about the second Brain, I would say that "someday this will click" or "someday I will use this information, I think". I just need to read one more book, listen to one more podcast, take this course or do that then I will be good. That never happened. It felt like the more I accumulated the dumber I became. **How can a person surrounded by rich reservoirs of knowledge be unable to do anything?**  After learning about building a second Brain, the first thing that comes to mind is **how will I use this right now or later?** Building a Second Brain sparked curiosity and imagination of the inner child in me. I find myself asking myself lots of questions. Every markdown file I create contains questions and this file is no different. Thanks to Tiago Forte and his system of a Second Brain I can create stronger neurons connections and find creative ways to solve problems. 
 
 
 </details>
@@ -176,6 +183,7 @@ Words can't begin to express how much I love personal knowledge management. I fe
 - Writers block or any creative block (creative output)
 - Tutorial Hell (escape)
 - Gas lighting
+- Indoctrination
 
 2. <span style='background-color:#46e8ff;'><span style='color:#000000;'>**What apps do I need to build a second brain?**
 - Any note taking app that enables you to view folders (PARA),search functionality, markdown - if possible, lightweight (not Microsoft word), sync feature, Cross platform is a plus. 
@@ -185,6 +193,7 @@ Words can't begin to express how much I love personal knowledge management. I fe
 - [Evernote](https://evernote.com/)
 - [Vscode](https://vscodium.com/) with [Foam](https://foambubble.github.io/foam/)
 - [Roam](https://roamresearch.com)
+- [Logseq](https://logseq.com/)
 
 3. <span style='background-color:#000000;'><span style='color:#46e8ff;'>**What is PARA?**
 - an acronym that stands for Projects, Areas, Resources and Archive
@@ -353,10 +362,10 @@ Words can't begin to express how much I love personal knowledge management. I fe
 45. **Is it possible to get a cease and desist letter for the contents of your second Brain?**
 - No! A second Brain is not subject to any copyright laws of Planet Earth or Interplanetary laws. That's like saying that your urine is subject to copyright infringement...
 
-46. In what ways is planned obsolescence related to a Second Brain?
+46. **In what ways is planned obsolescence related to a Second Brain?**
 -
 
-47. Does school serve a purpose when you have a Second Brain?
+47. **Does school serve a purpose when you have a Second Brain?**
 - No it doesn't...
 
 48. **What are some things that a Second Brain isn't?**
@@ -446,79 +455,111 @@ Words can't begin to express how much I love personal knowledge management. I fe
 76. **What will the Second Brain of my future self look like?**
 -
 
-77. Is self hosting a second Brain a good idea?
+77. **Is self hosting a second Brain a good idea?**
 -
 
-78. How do you teach someone else how to build a second Brain?
+78. **How do you teach someone else how to build a second Brain?**
 -
 
-79. Is creating a second Brain for someone else worth it?
+79. **Is creating a second Brain for someone else worth it?**
 -
 
-80. How does building a second Brain make you an elite?
+80. **How does building a second Brain make you an elite?**
 -
 
-81. Does building a second brain create a superiority complex?
+81. **Does building a second brain create a superiority complex?**
 -
 
-82. In what ways can a second Brain eliminate sexism?
+82. **In what ways can a second Brain eliminate sexism?**
 -
 
-83. Should a second brain contain color?
+83. **Should a second brain contain color?**
 -
 
-84. In what ways can a second Brain eliminate racism?
+84. **In what ways can a second Brain eliminate racism?**
 -
 
-85. Is a second brain immune to the effects of neocolonialism?
+85. **Is a second brain immune to the effects of neocolonialism?**
 -
 
-86. How can a person use a second brain to get out of debt?
+86. **How can a person use a second brain to get out of debt?**
 -
 
-87. What are some of the best devices for building a second Brain?
+87. **What are some of the best devices for building a second Brain?**
 -
 
-88. What are the worst devices that are not suitable for building a Second Brain?
+88. **What are the worst devices that are not suitable for building a Second Brain?**
 -
 
-89. Does the operating system you use for your Second Brain matter?
+89. **Does the operating system you use for your Second Brain matter?**
 -
 
-90. Does having a Second Brain make you an activist?
+90. **Does having a Second Brain make you an activist?**
 -
 
-91. Are there any video games optimized for people with a Second Brains?
+91. **Are there any video games optimized for people with a Second Brains?**
 -
 
-92. Does a person from a third world country benefit more from a Second Brain than someone from a developed nation?
+92. **Does a person from a third world country benefit more from a Second Brain than someone from a developed nation?**
 -
 
-93. Are two Brains better than one when you have a Second Brain?
+93. **Are two Brains better than one when you have a Second Brain?**
 -
 
-94. Is a Second Brain a product of individualism?
+94. **Is a Second Brain a product of individualism?**
 -
 
-95. How does NLP modelling work with a Second Brain?
+95. **How does NLP modelling work with a Second Brain?**
 -
 
-96. Does impostor syndrome vanish with a Second Brain?
+96. **Does impostor syndrome vanish with a Second Brain?**
 -
 
-97. Who are some famous people that have a Second Brain?
+97. **Who are some famous people that have a Second Brain?**
 -
 
-98. How can you teach about the Second Brain to someone who doesn't have a technological device?
+98. **How can you teach about the Second Brain to someone who doesn't have a technological device?**
 -
 
-99. Is it secure to store your Second Brain in a cloud storage?
+99. **Is it secure to store your Second Brain in a cloud storage?**
 -
 
-100. Can a student surpass his teacher using a Second Brain?
+100. **Can a student surpass his teacher using a Second Brain?**
 -
 
-101. What do you think is the estimated value of your Second Braun?
+101. **What do you think is the estimated value of your Second Brain?**
+-
+
+
+102. **Is a Second Brain a substitute for God?**
+- Its easy to think that logic is enough to overcome everything in life, but there are somethings outside the realm of logical control. Rationalism alone is not enough to substitute your Puritan beliefs. A Second Brain isn't a substitute for everything
+
+103. What should you do when you accidentally delete your Second Brain?
+-
+
+104. Should you keep message and call logs when you have a second Brain?
+-
+
+105. Should you keep WhatsApp logs when you have a Second Brain?
+-
+
+106. Should you stress if you accidentally delete something permanently from your Second Brain?
+- That shouldn't be the case, if you are utilizing your Second Brain effectively. If you're stressing its a mark that you are hoarding with your Second Brain instead of effectively utilizing it. Even if you delete, you should be able to recreate them easily, including any fancy styling...
+
+107. Is it easier to recall data on people when you think in terms of a Second Brain?
+-
+
+
+108. What is a self fulfilling prophecy in the context of a Second Brain?
+-
+
+109. Is a mailing list better than web scraping when it comes to a second Brain?
+-
+
+110. Are email newsletters toxic for the Second Brain?
+-
+
+111. Does a Second Brain eliminate procrastination?
 -
 
 
@@ -527,5 +568,4 @@ Words can't begin to express how much I love personal knowledge management. I fe
 </details>
 
 </span>
-
 
