@@ -198,7 +198,7 @@ const 33nano = {
 - Ori and the Blind Forest
 
 35. **What is PKN's daily driver?**
-- ROG Phone 3 <!- I used to be a Oneplus Fanboy, but my longing for something better drifted off into the abyss of the cybersphere. My last device was the Oneplus  Pro. Oneplus settled, despite constantly being the embodiment of their own slogan, never settle. Samsung was a Knox, Xiaomi was My Ui (MIUI), Huawei was killed off. My only hope for something better was a gaming phone -->
+- ROG Phone 3 <!-- I used to be a Oneplus Fanboy, but my longing for something better drifted off into the abyss of the cybersphere. My last device was the Oneplus  Pro. Oneplus settled, despite constantly being the embodiment of their own slogan, never settle. Samsung was a Knox, Xiaomi was My Ui (MIUI), Huawei was killed off. My only hope for something better was a gaming phone -->
 36. **Whats in PKN's podcast library?**
 - Stack Overflow 
 - Unstoppable
@@ -261,30 +261,31 @@ const 33nano = {
 - Tutorials (cooking....)
 - Keynote speeches (TED...)
 
-45. **What Udemy courses does PKN love?**
-- REBT
-- 
-46. **What is PKN's favorite blog?**
-- Crashco
+45. **What is your favorite Udemy Course
+- [REBT The Science of Programming Your Mind](https://www.udemy.com/course/rebt-psychology-self-help/)
+
+46. **What yout favorite blog?
+- I love the Crash Co Blog
   
 47. **What is your favorite podcast?**
 - Rich Dad Radio Show
   
 48. **What are your favorite mental models?**
-- Kaizen
-- Gamification
+- Kaizen 
+- Gamification 
 
 49. What blogs do you like reading?
 - Dig Deeper
 - Penny Hoarder
   
-50. When did PKN start getting into the crypto/ dapp space?
-- Early January of 2020 amidst the global pandemic
+50. When did you start getting into the cryptocurrency space?
+- Early january of 2020, amidst the global pandemic. I just played around and slowly figured things out in the same likeness a child does. 
   
-51. When did PKN start getting into music?
-- During his high school choir years
+51. When did you start getting into music?
+- My peers indulged me in the idea of joining choir. "Sure! I'll give it a try. If i dont like it, i'll just quit." - To my suprise i ended up loving it despite not having zero music theory.
 
-52. 
+52. Why do you want to pursue game development?
+- My interest in game development isnt geared towards creating casual games for people to play. My pursuit lies in my astonishment with the mental model of gamification. Gamification has the qualities i need for creative problem solving and audience engagement. I seek to bridge the gap or make neuroscience more fun using gamification
   
 
   
