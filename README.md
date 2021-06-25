@@ -256,15 +256,13 @@ const 33nano = {
 
 43. **What is PKN's favorite YouTube Channel?**
   
-44. **What type of content does PKN love consuming on YouTube?**
-- Standup comedy
-- Tutorials (cooking....)
-- Keynote speeches (TED...)
+44. **What type of content do you like consuming on YouTube?**
+- As the saying goes, 'laughter is the best medicine' ; So it goes without say that my favorite content happens to be comedy (standup, skits and parodies). Keynote speeches would probably be my number 2 because i get to dissect them using Neurolinguistic Programming and refine them in my Second Brain. Lastly, tutorials because documentation alone is not enough and having a dual monitor is a blessing in diguise.
 
 45. **What is your favorite Udemy Course
 - [REBT The Science of Programming Your Mind](https://www.udemy.com/course/rebt-psychology-self-help/)
 
-46. **What yout favorite blog?
+46. **What is your favorite blog?
 - I love the Crash Co Blog
   
 47. **What is your favorite podcast?**
@@ -282,7 +280,7 @@ const 33nano = {
 - Early january of 2020, amidst the global pandemic. I just played around and slowly figured things out in the same likeness a child does. 
   
 51. When did you start getting into music?
-- My peers indulged me in the idea of joining choir. "Sure! I'll give it a try. If i dont like it, i'll just quit." - To my suprise i ended up loving it despite not having zero music theory.
+- My peers indulged me in the idea of joining choir. "Sure! I'll give it a try. If i dont like it, i'll just quit." - To my suprise i ended up loving it despite having zero music theory.
 
 52. Why do you want to pursue game development?
 - My interest in game development isnt geared towards creating casual games for people to play. My pursuit lies in my astonishment with the mental model of gamification. Gamification has the qualities i need for creative problem solving and audience engagement. I seek to bridge the gap or make neuroscience more fun using gamification
