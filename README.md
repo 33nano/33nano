@@ -181,11 +181,22 @@ const 33nano = {
 31. **How does PKN come up with titles for his blog?**
   
 32. **What are PKN's favorite mobile games?**
+- Bloon Toons Defense 
+- Bleach Brave Souls
+- Dungeon Hunter 3
+- Asphalt 8
+- Stardew Valley
+- Shadow Fight
   
-33. *Whhat are PKN's favorite console games?**
+33. **What are PKN's favorite console games?**
+- Little Big Planet (all)
+- Grand Theft Auto (all)
+- Playstation All Stars Battle Royale
+- Watchdogs (all)
   
 34. **What are PKN's favorite PC Games?**
-  
+- Ori and the Blind Forest
+
 35. **What is PKN's daily driver?**
 - ROG Phone 3 <!- I used to be a Oneplus Fanboy, but my longing for something better drifted off into the abyss of the cybersphere. My last device was the Oneplus  Pro. Oneplus settled, despite constantly being the embodiment of their own slogan, never settle. Samsung was a Knox, Xiaomi was My Ui (MIUI), Huawei was killed off. My only hope for something better was a gaming phone -->
 36. **Whats in PKN's podcast library?**
@@ -271,7 +282,7 @@ const 33nano = {
 - Early January of 2020 amidst the global pandemic
   
 51. When did PKN start getting into music?
-- During my high school choir years
+- During his high school choir years
 
 52. 
   
