@@ -29,7 +29,7 @@ const 33nano = {
 - [![ProtonMail Badge](https://img.shields.io/badge/-33nano@pm.me-blue?style=flat-square&logo=ProtonMail&logoColor=ffb703&link=mailto:33nano@pm.me)](mailto:33nano@pm.me)  [![Discord Badge](https://img.shields.io/badge/-33nano-blue?style=flat-square&logo=discord&logoColor=ffb703&link=mailto:33nano#8814)](mailto:33nano#8814)
 
 4.**What is PKN's favorite hobby?**
-- He loves writing. Learning about markdown fully manifested his writing addiction.
+- He loves writing. <!-- Markdown supremacist... Learning about markdown fully manifested his writing addiction. -->
 
 5. **How many languages does PKN know?**
 - His linguistic skills are not yet quantifiable as he is a Polyglot in the making... He is fluent in English & Chichewa. He recently learned Latin because he was tired of using an English dictionary. He is currently learning Swahili due to the limitations of Chichewa. He wishes to learn Japanese and Korean at some point in order to read more Manga & Manhwa without waiting for English scanlations(read legally). 
@@ -158,11 +158,14 @@ const 33nano = {
 
   
 22. **What are some of PKN's favorite Manhua**
- 
+- None. Manhua is boring because its all about cultivation <!-- Indoctrination in a fantasy form factor -->
+  
 23. **What is PKN's favorite programming language?**
+- Go
   
 24. **Whats  PKN's DAW of choice?**
-
+- Reaper <!-- If i was using a proprietary operating system i would have been using FL Studio 20 -->
+  
 25. **Whats are PKN's interests?**
   
 26. **What projects are in PKN's Second Brain?**
@@ -184,9 +187,9 @@ const 33nano = {
 34. **What are PKN's favorite PC Games?**
   
 35. **What is PKN's daily driver?**
-  
+- ROG Phone 3 <!- I used to be a Oneplus Fanboy, but my longing for something better drifted off into the abyss of the cybersphere. My last device was the Oneplus  Pro. Oneplus settled, despite constantly being the embodiment of their own slogan, never settle. Samsung was a Knox, Xiaomi was My Ui (MIUI), Huawei was killed off. My only hope for something better was a gaming phone -->
 36. **Whats in PKN's podcast library?**
-- Stack Overflow
+- Stack Overflow 
 - Unstoppable
 - Career Crashers
 - Rich Dad Radio Show
@@ -202,13 +205,20 @@ const 33nano = {
 - Holt Cast
   
 37. **What are PKN's favorite desktop apps?**
-
+- Inkscape
+- Gimp
+- 
+  
 38. **What are PKN's favorite mobile apps?**
 - Markor
 - Eink Browser
 - Privacy Browser
 - Mooon Reader Pro
 - Pocket Casts
+- Snapmod
+- Tachiyomi
+- LBRY
+- Newpipe Legacy <!-- Its better than what Ymusic became, a spyware tool -->
 
 
 39. **What is PKN's go to browser?**
@@ -257,7 +267,13 @@ const 33nano = {
 - Dig Deeper
 - Penny Hoarder
   
-50. 
+50. When did PKN start getting into the crypto/ dapp space?
+- Early January of 2020 amidst the global pandemic
+  
+51. When did PKN start getting into music?
+- During my high school choir years
+
+52. 
   
 
   
