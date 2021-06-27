@@ -45,6 +45,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 solospellcaster.com
 0.0.0.0 readwebtoon.net
 0.0.0.0 mangafarm.com
+0.0.0.0 sololevelings.com
+0.0.0.0 muitomanga.com
+0.0.0.0 sortiemanga.com
+0.0.0.0 mangaraw.cc
 0.0.0.0 potatoscan.com
 0.0.0.0 toptoonplus.com
 0.0.0.0 pornhwa.com
@@ -608,7 +612,7 @@ ff02::3 ip6-allhosts
 
 # Open Source Junkie
 0.0.0.0 ardour.org
-
+0.0.0.0 obsidian.md
 
 # Search
 0.0.0.0 duckduckgo.com
@@ -621,6 +625,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 baidu.com
 0.0.0.0 aol.com
 0.0.0.0 m.baidu.com
+0.0.0.0 chacha.com
+0.0.0.0 lycos.com
+0.0.0.0 excite.com
+0.0.0.0 givewater.com
+0.0.0.0 onesearch.com
 
 # Feed the Algorithm
 0.0.0.0 consent.youtube.com
@@ -639,6 +648,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 zettlekasten.de
 0.0.0.0 4kporn.xxx
 0.0.0.0 5sporn.com
+0.0.0.0 otakuart.com
+0.0.0.0 searchenginejournal.com
+0.0.0.0 slideshare.net
+0.0.0.0 hongkiat.com
+0.0.0.0 teachthought.com
+0.0.0.0 readwrite.com
 0.0.0.0 9gag.com
 0.0.0.0 hobby.porn
 0.0.0.0 9xbuddy.com
