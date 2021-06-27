@@ -574,6 +574,7 @@ ff02::3 ip6-allhosts
 
 
 # Proprietary Garbage
+0.0.0.0 photos.google.com
 
 # Otaku Waifu & Weaboo Warudo: Digital Escapism
 0.0.0.0 4ani.me
