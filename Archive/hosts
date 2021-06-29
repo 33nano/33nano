@@ -42,6 +42,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 manhwaz.com
 0.0.0.0 hiperdex.com
 0.0.0.0 manganato.tv
+0.0.0.0 chaptermanga.com
+0.0.0.0 r2.onlinemanga.xyz
+0.0.0.0 1manga.co
+0.0.0.0 team1x1.com
+0.0.0.0 manganelo.live
+0.0.0.0 manga-reader.monster
+0.0.0.0 novelfull.org
+0.0.0.0 mangapark.bid
+0.0.0.0 mangaway.xyz
 0.0.0.0 solospellcaster.com
 0.0.0.0 readwebtoon.net
 0.0.0.0 mangafarm.com
@@ -578,6 +587,8 @@ ff02::3 ip6-allhosts
 
 # Proprietary Garbage
 0.0.0.0 photos.google.com
+0.0.0.0 disney.com
+0.0.0.0 netflix.com
 
 # Otaku Waifu & Weaboo Warudo: Digital Escapism
 0.0.0.0 4ani.me
